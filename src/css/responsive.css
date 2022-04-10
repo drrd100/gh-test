@@ -1,0 +1,375 @@
+@media screen and (max-width: 1280px) {
+  .section .inner {
+    width: 94%;
+  }
+
+  .lineup .title {
+    margin-bottom: 0;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .lineup .title > img {
+    width: 300px;
+  }
+  .lineup .title > div > img {
+    width: 150px;
+  }
+  .lineup .title p {
+    font-size: 26px;
+    margin-left: 3px;
+  }
+  .lineup .title span {
+    font-size: 28px;
+    margin-left: 5px;
+  }
+  .lineup .carList {
+    width: 98%;
+  }
+
+  .kakao .text .title {
+    margin-bottom: 35px;
+  }
+  .kakao .text .title > p {
+    font-size: 36px;
+  }
+  .kakao .text .desc > span {
+    font-size: 24px;
+  }
+  .kakao .text .desc > p {
+    font-size: 14px;
+  }
+  .kakao .kakao-bg {
+    right: -720px;
+    top: 260px;
+  }
+  .kakao .kakao-bg ul li + li {
+    margin-left: 1%;
+  }
+  .kakao .kakao-bg ul li img {
+    width: 180px;
+  }
+
+  .instargarm .contents > p {
+    font-size: 14px;
+    margin-bottom: 30px;
+  }
+  .instargarm .contents .phone-image img {
+    width: 150px;
+  }
+  .instargarm .contents .event {
+    margin-left: 25px;
+  }
+  .instargarm .contents .event .title {
+    padding-top: 30px;
+  }
+  .instargarm .contents .event .title img {
+    width: 200px;
+  }
+  .instargarm .contents .event .title p {
+    font-size: 28px;
+    letter-spacing: -0.03vw;
+  }
+  .instargarm .contents .event .item .icon {
+    width: 30px;
+  }
+  .instargarm .contents .event .item > div > span {
+    font-size: 16px;
+  }
+  .instargarm .contents .event .item > p {
+    font-size: 13px;
+  }
+
+  .coupon .contents .summary .title img {
+    width: 140px;
+    margin-bottom: 15px;
+  }
+  .coupon .contents .summary .title p {
+    font-size: 24px;
+  }
+
+  .coupon .contents .summary .use ul li img {
+    width: 80px;
+  }
+  .coupon .contents .summary .use > ul > li + li:after {
+    width: 5px;
+    height: 5px;
+  }
+  .coupon .contents .couponZone {
+    width: 48%;
+    margin-left: 2%;
+  }
+  .coupon .contents .couponZone .title {
+    margin-bottom: 35px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .instargarm .contents {
+    padding: 80px 0;
+  }
+  .coupon .contents {
+    padding: 80px 0;
+  }
+  .coupon .contents .summary {
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .coupon .contents .summary .title {
+    margin-bottom: 20px;
+  }
+  .coupon .contents .summary .use > span {
+    font-size: 14px;
+  }
+  .coupon .contents .summary .use > ul {
+    text-align: center;
+  }
+  .coupon .contents .summary .desc > span {
+    font-size: 13px;
+    margin-bottom: 3px;
+  }
+  .coupon .contents .summary .desc > p {
+    font-size: 12px;
+  }
+  .coupon .contents .summary .desc > p + p {
+    margin-top: 0;
+  }
+  .coupon .contents .couponZone {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+  }
+  .coupon .contents .couponZone .list {
+    max-width: 420px;
+    margin: 0 auto 30px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .visual .text > strong {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .visual .text > div {
+    margin-bottom: 10px;
+  }
+  .visual .text > div img {
+    width: 190px;
+  }
+  .visual .text > div > p {
+    font-size: 30px;
+  }
+  .visual .text > span {
+    font-size: 14px;
+  }
+
+  .lineup .title > div > img {
+    width: 120px;
+  }
+  .lineup .title p {
+    font-size: 21px;
+  }
+  .lineup .title span {
+    font-size: 26px;
+    margin-left: 2px;
+  }
+  .lineup .carList .carItem .desc p {
+    font-size: 22px;
+  }
+
+  .kakao .text .title > img {
+    width: 140px;
+    margin-bottom: 12px;
+  }
+  .kakao .text .title > p {
+    font-size: 24px;
+  }
+  .kakao .text .desc > span {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .kakao .text .desc > p {
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+  .kakao .text .desc .kakao-qr img {
+    width: 80px;
+  }
+
+  .instargarm .contents .phone-image {
+    display: block;
+  }
+  .instargarm .contents .event {
+    display: block;
+    margin-left: 0;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .section .inner {
+    width: 96%;
+  }
+  .visual .text > strong {
+    font-size: 5vw; /*24*/
+    margin-bottom: 2.08vw; /*10*/
+  }
+  .visual .text > div img {
+    width: 40vw;
+  }
+  .visual .text > div > p {
+    font-size: 6.25vw; /*30*/
+    margin-left: 2.8vw;
+  }
+  .visual .text > span {
+    font-size: 2.91vw; /*14*/
+  }
+
+  .lineup .title > img {
+    width: 62.4vw;
+    margin-bottom: 4.16vw;
+  }
+  .lineup .title > div > img {
+    width: 24.96vw;
+  }
+  .lineup .title p {
+    font-size: 4.375vw;
+    margin-left: 0.5vw;
+  }
+  .lineup .title span {
+    font-size: 5.41vw;
+    margin-left: 0.3vw;
+  }
+  .lineup .carList .carItem .thumb img {
+    bottom: -8.24vw;
+  }
+  .lineup .carList {
+    padding: 10vw 0;
+  }
+  .lineup .carList .carItem {
+    height: 68.75vw;
+  }
+  .lineup .carList .carItem .thumb {
+    height: 34.375vw;
+    margin-bottom: 9.375vw;
+  }
+  .lineup .carList .carItem .desc {
+    margin-bottom: 5.2vw;
+  }
+  .lineup .carList .carItem .desc p {
+    font-size: 4.58vw;
+  }
+  .lineup .carList .carItem .desc .spec span {
+    font-size: 2.7vw;
+  }
+  .lineup .carList .carItem .reserve button {
+    width: 39.5vw;
+    height: 6.24vw;
+    font-size: 2.91vw;
+  }
+  .lineup .carList .carItem .thumb .discount {
+    top: 1.66vw;
+    right: 1.66vw;
+    font-size: 10px;
+    border: 1px solid #db0015;
+    line-height: 22px;
+    height: 22px;
+  }
+
+  .kakao .text .title {
+    margin-bottom: 7.29vw;
+  }
+  .kakao .text .title > p {
+    font-size: 4.58vw;
+  }
+  .kakao .text .desc > span {
+    font-size: 3.75vw;
+    margin-bottom: 2.08vw;
+  }
+  .kakao .kakao-bg ul li img {
+    width: 120px;
+  }
+  .kakao .kakao-bg {
+    right: -930px;
+    top: 150px;
+  }
+  .kakao .text .desc > p {
+    font-size: 11px;
+    margin-bottom: 2.08vw;
+  }
+  .kakao .text .desc .kakao-qr img {
+    width: 16vw;
+  }
+
+  .instargarm .contents {
+    padding: 16.66vw 0;
+  }
+  .instargarm .m-br {
+    display: block;
+  }
+  .instargarm .contents > p {
+    font-size: 4.16vw;
+    line-height: 1.4em;
+    margin-bottom: 6.25vw;
+  }
+  .instargarm .contents .event .title {
+    margin-bottom: 6.25vw;
+    padding-top: 6.25vw;
+  }
+  .instargarm .contents .event .title img {
+    width: 41.6vw;
+  }
+  .instargarm .contents .event .title p {
+    font-size: 5.83vw;
+  }
+  .instargarm .contents .phone-image img {
+    width: 35.41vw;
+  }
+  .instargarm .contents .event .item .icon {
+    width: 8.33vw;
+  }
+  .instargarm .contents .event .item > div {
+    margin-bottom: 2.08vw;
+  }
+  .instargarm .contents .event .item > div > span {
+    font-size: 3.74vw;
+  }
+  .instargarm .contents .event .item + .item {
+    margin-top: 6.25vw;
+  }
+  .instargarm .contents .event .item > p {
+    font-size: 3.125vw;
+  }
+
+  .coupon .contents {
+    padding: 16.66vw 0;
+  }
+  .coupon .contents .summary {
+    margin-bottom: 6.25vw;
+  }
+  .coupon .contents .summary .title p {
+    font-size: 5vw;
+  }
+  .coupon .contents .summary .title {
+    margin-bottom: 4.16vw;
+  }
+  .coupon .contents .summary .title img {
+    width: 29.1vw;
+    margin-bottom: 3.125vw;
+  }
+  .coupon .contents .summary .use > span {
+    font-size: 12px;
+  }
+  .coupon .contents .summary .use ul li img {
+    width: 16.6vw;
+  }
+  .coupon .contents .summary .desc > p {
+    font-size: 11px;
+  }
+  .coupon .contents .couponZone .title {
+    margin-bottom: 7.29vw;
+  }
+  .coupon .contents .couponZone .title > img {
+    width: 62.5vw;
+  }
+}
