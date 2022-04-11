@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/socar/static/css/main.93805048.css",
-    "main.js": "/socar/static/js/main.56b17719.js",
-    "static/js/787.74189319.chunk.js": "/socar/static/js/787.74189319.chunk.js",
-    "static/media/main_visual.png": "/socar/static/media/main_visual.177b05de1d000fb46f57.png",
-    "index.html": "/socar/index.html",
-    "main.93805048.css.map": "/socar/static/css/main.93805048.css.map",
-    "main.56b17719.js.map": "/socar/static/js/main.56b17719.js.map",
-    "787.74189319.chunk.js.map": "/socar/static/js/787.74189319.chunk.js.map"
+    "main.css": "https://drrd100.github.io/socar/static/css/main.f3b88742.css",
+    "main.js": "https://drrd100.github.io/socar/static/js/main.0e6f3c70.js",
+    "static/js/787.74189319.chunk.js": "https://drrd100.github.io/socar/static/js/787.74189319.chunk.js",
+    "static/media/main_visual.png": "https://drrd100.github.io/socar/static/media/main_visual.177b05de1d000fb46f57.png",
+    "index.html": "https://drrd100.github.io/socar/index.html",
+    "main.f3b88742.css.map": "https://drrd100.github.io/socar/static/css/main.f3b88742.css.map",
+    "main.0e6f3c70.js.map": "https://drrd100.github.io/socar/static/js/main.0e6f3c70.js.map",
+    "787.74189319.chunk.js.map": "https://drrd100.github.io/socar/static/js/787.74189319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93805048.css",
-    "static/js/main.56b17719.js"
+    "static/css/main.f3b88742.css",
+    "static/js/main.0e6f3c70.js"
   ]
 }
