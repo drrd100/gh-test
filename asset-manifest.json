@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/socar/static/css/main.93805048.css",
-    "main.js": "/socar/static/js/main.153297fa.js",
+    "main.css": "/socar/static/css/main.ff8e9390.css",
+    "main.js": "/socar/static/js/main.01887648.js",
     "static/js/787.74189319.chunk.js": "/socar/static/js/787.74189319.chunk.js",
     "static/media/main_visual.png": "/socar/static/media/main_visual.177b05de1d000fb46f57.png",
     "index.html": "/socar/index.html",
-    "main.93805048.css.map": "/socar/static/css/main.93805048.css.map",
-    "main.153297fa.js.map": "/socar/static/js/main.153297fa.js.map",
+    "main.ff8e9390.css.map": "/socar/static/css/main.ff8e9390.css.map",
+    "main.01887648.js.map": "/socar/static/js/main.01887648.js.map",
     "787.74189319.chunk.js.map": "/socar/static/js/787.74189319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93805048.css",
-    "static/js/main.153297fa.js"
+    "static/css/main.ff8e9390.css",
+    "static/js/main.01887648.js"
   ]
 }
