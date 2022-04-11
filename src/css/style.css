@@ -86,6 +86,9 @@
   margin: 0 auto;
   padding: 50px 0;
 }
+.lineup .carList .swiper-wrapper{
+  padding: 15px 0;
+}
 .lineup .carList .carItem {
   height: 370px;
   box-sizing: border-box;

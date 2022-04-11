@@ -7,8 +7,9 @@ import RegisterPage from "./pages/RegisterPage";
 import history from "./history";
 
 function App() {
+
   return (
-    <ConnectedRouter history={history}>
+    <ConnectedRouter history={history} >
       <Switch>
         <Route exact path="/" component={MainPage} />
         <Route exact path="/login" component={LoginPage}/>

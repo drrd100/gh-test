@@ -32,7 +32,7 @@ export default function Aside() {
         <div id="aside" className={showAside ? "asideOn" : null}>
             <div className="inner">
                 <div className="top">
-                    <div className="aside-logo"><img src="/images/logo.png" alt=""/></div>
+                    <div className="aside-logo"><img src={process.env.PUBLIC_URL + "/images/logo.png"} alt=""/></div>
                     <Link to="/login">로그인</Link>
                     <Link to="/register">회원가입</Link>
                 </div>
@@ -41,7 +41,7 @@ export default function Aside() {
                     <li><a href="#Lineup" data-menuanchor="Lineup" className="asideMenuItem" onClick={handleAsideGnb} >Line Up</a></li>
                     <li><a href="#Kakao" data-menuanchor="Kakao" className="asideMenuItem" onClick={handleAsideGnb} >Kakao Event</a></li>
                     <li><a href="#Instagram" data-menuanchor="Instagram" className="asideMenuItem" onClick={handleAsideGnb} >Instagram Event</a></li>
-                    <li><a href="#Coupon" data-menuanchor="Coupon" className="asideMenuItem"onClick={handleAsideGnb} >Coupon Download</a></li>
+                    <li><a href="#Coupon" data-menuanchor="Coupon" className="asideMenuItem"onClick={handleAsideGnb} >Company</a></li>
                 </ul>
             </div>
         </div>

@@ -213,6 +213,7 @@
   .visual .text > strong {
     font-size: 5vw; /*24*/
     margin-bottom: 2.08vw; /*10*/
+    font-weight: 700;
   }
   .visual .text > div img {
     width: 40vw;
@@ -222,7 +223,8 @@
     margin-left: 2.8vw;
   }
   .visual .text > span {
-    font-size: 2.91vw; /*14*/
+    font-size: 3.4vw; /*14*/
+    font-weight: 700;
   }
 
   .lineup .title > img {
@@ -294,7 +296,6 @@
     top: 150px;
   }
   .kakao .text .desc > p {
-    font-size: 11px;
     margin-bottom: 2.08vw;
   }
   .kakao .text .desc .kakao-qr img {

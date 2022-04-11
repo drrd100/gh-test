@@ -7,7 +7,7 @@ export default function CarSlideItem() {
         <div className="carItem">
             <div className="thumb">
                 <span className="discount">30% SALE</span>
-                <img src="/images/car-tucson.png" alt=""/>
+                <img src={process.env.PUBLIC_URL + "/images/car-tucson.png"} alt=""/>
             </div>
             <div className="desc">
                 <p>올 뉴 투싼</p>
