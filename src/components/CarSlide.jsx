@@ -54,7 +54,7 @@ export default function CarSlide() {
         <SwiperSlide key={car.id}>
           <div className="carItem">
             <div className="thumb">
-                <span className="discount">30% SALE</span>
+                <span className="discount">30% sale</span>
                 <img src={process.env.PUBLIC_URL + car.imageURL} alt=""/>
             </div>
             <div className="desc">
