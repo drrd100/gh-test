@@ -1,5 +1,4 @@
 import React, { useState,useRef } from 'react';
-import { Link } from 'react-router-dom';
 
 export default function Aside() {
     const [showAside, setShowAside] = useState(false);
@@ -24,7 +23,7 @@ export default function Aside() {
   return (
       <>
         <label htmlFor="hamburger-menu" id="hamburger-menu-wrapper" >
-              <input type="checkbox" id="hamburger-menu" onClick={handleAside} ref={hamburgerBtn}/>
+            <input type="checkbox" id="hamburger-menu" onClick={handleAside} ref={hamburgerBtn}/>
             <span></span>
             <span></span>
             <span></span>
