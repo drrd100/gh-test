@@ -11,7 +11,7 @@ export default function CarSlide() {
 
   useEffect(() =>{
     const carApi = async () => {
-      await axios.get('http://localhost:4000/carList')
+      await axios.get('/carList')
       .then((res) => {
         setCar(res.data)
         console.log(res.data)
