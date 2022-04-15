@@ -100,7 +100,7 @@
   margin-left: 5px;
 }
 #aside .inner .top .aside-logo {
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 #aside .inner .top .aside-logo img {
   display: block;
@@ -208,7 +208,7 @@
   background-color: #73bcf2;
   padding: 10px 40px;
   border-top-left-radius: 20px;
-  transition: all 2s ease;
+  transition: all 1s ease;
   transform: translateY(500px);
 }
 .go-store a img{
@@ -251,7 +251,7 @@
     width: 80%;
   }
   #aside .inner .top .aside-logo {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
   }
   #aside .inner .top .aside-logo img {
     width: 120px;

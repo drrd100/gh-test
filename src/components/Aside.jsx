@@ -33,8 +33,6 @@ export default function Aside() {
             <div className="inner">
                 <div className="top">
                     <div className="aside-logo"><img src={process.env.PUBLIC_URL + "/images/logo.png"} alt=""/></div>
-                    <Link to="/login">로그인</Link>
-                    <Link to="/register">회원가입</Link>
                 </div>
                 <ul className="asideMenu">
                     <li><a href="#Home" data-menuanchor="Home" className="asideMenuItem" onClick={handleAsideGnb} >Home</a></li>

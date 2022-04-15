@@ -11,7 +11,7 @@ export default function GoStore() {
             if (handle) {
                 clearTimeout(handle);
             }
-            handle = setTimeout(callback, timeout || 200); 
+            handle = setTimeout(callback, timeout || 50); 
         };
         element.addEventListener('scroll', onScroll);
         return function() {
