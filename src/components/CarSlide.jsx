@@ -14,7 +14,6 @@ export default function CarSlide() {
       await axios.get('/carList')
       .then((res) => {
         setCar(res.data)
-        console.log(res.data)
       })
     }
     carApi();
@@ -54,7 +53,7 @@ export default function CarSlide() {
         <SwiperSlide key={car.id}>
           <div className="carItem">
             <div className="thumb">
-                <span className="discount">30% sale</span>
+                <span className="discount">{car.discount} SALE</span>
                 <img src={process.env.PUBLIC_URL + car.imageURL} alt=""/>
             </div>
             <div className="desc">

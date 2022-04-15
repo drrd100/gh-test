@@ -5,49 +5,56 @@
         "name": "올 뉴 투싼",
         "price": "78000",
         "manufacture": "17년식",
-        "imageURL": "/images/car-tucson.png"
+        "imageURL": "/images/car-tucson.png",
+        "discount":"20%"
       },
       {
         "id": 2,
         "name": "코나",
         "price": "65000",
         "manufacture": "19년식",
-        "imageURL": "/images/car-kona.png"
+        "imageURL": "/images/car-kona.png",
+        "discount":"20%"
       },
       {
         "id": 3,
         "name": "셀토스",
         "price": "69000",
         "manufacture": "18년식",
-        "imageURL": "/images/car-seltos.png"
+        "imageURL": "/images/car-seltos.png",
+        "discount":"30%"
       },
       {
         "id": 4,
         "name": "쏘렌토",
         "price": "83000",
         "manufacture": "16년식",
-        "imageURL": "/images/car-sorento.png"
+        "imageURL": "/images/car-sorento.png",
+        "discount":"22%"
       },
       {
         "id": 5,
         "name": "스포티지",
         "price": "74000",
         "manufacture": "21년식",
-        "imageURL": "/images/car-spotage.png"
+        "imageURL": "/images/car-spotage.png",
+        "discount":"13%"
       },
       {
         "id": 6,
         "name": "쏘렌토",
         "price": "83000",
         "manufacture": "16년식",
-        "imageURL": "/images/car-sorento.png"
+        "imageURL": "/images/car-sorento.png",
+        "discount":"24%"
       },
       {
         "id": 7,
         "name": "스포티지",
         "price": "74000",
         "manufacture": "21년식",
-        "imageURL": "/images/car-spotage.png"
+        "imageURL": "/images/car-spotage.png",
+        "discount":"24%"
       }
     ]
   }

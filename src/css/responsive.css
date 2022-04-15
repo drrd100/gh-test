@@ -277,7 +277,9 @@
     line-height: 22px;
     height: 22px;
   }
-
+  .kakao .text{
+    padding-bottom: 30vw;
+  }
   .kakao .text .title {
     margin-bottom: 7.29vw;
   }
@@ -303,7 +305,7 @@
   }
 
   .instargarm .contents {
-    padding: 16.66vw 0;
+    padding: 19vw 0;
   }
   .instargarm .m-br {
     display: block;
@@ -314,8 +316,8 @@
     margin-bottom: 6.25vw;
   }
   .instargarm .contents .event .title {
-    margin-bottom: 6.25vw;
-    padding-top: 6.25vw;
+    margin-bottom: 9vw;
+    padding-top: 18vw;
   }
   .instargarm .contents .event .title img {
     width: 41.6vw;

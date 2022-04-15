@@ -12,6 +12,7 @@ import '../css/reset.css';
 import '../css/common.css';
 import '../css/style.css';
 import '../css/responsive.css';
+import GoStore from '../components/GoStore';
 
 
 export default function MainPage() {
@@ -19,6 +20,7 @@ export default function MainPage() {
     <>
       <Header />
       <Aside/>
+      <GoStore/>
         <ReactFullpage
         anchors={['Home', 'Lineup', 'Kakao', 'Instagram', 'Coupon']}
         animateAnchor={true}
