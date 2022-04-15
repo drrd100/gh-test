@@ -192,16 +192,10 @@
   z-index: 100;
 }
 
-@keyframes goStore {
-  from {
-    transform: translateY(500px);
-  }
-
-  to {
-    transform: translateY(00px);
-
-  }
+.show-store a{
+  transform: translateY(0) !important;
 }
+   
 
 .go-store a{
   display: flex;
@@ -215,8 +209,7 @@
   padding: 10px 40px;
   border-top-left-radius: 20px;
   transition: all 2s ease;
-
-  animation: goStore 2s ease-in;
+  transform: translateY(500px);
 }
 .go-store a img{
   display: block;
