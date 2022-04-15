@@ -15,7 +15,12 @@
 - [map() 렌더링 중 이슈 ](https://92yeol.tistory.com/34)
 - [gh-pages 배포 후 빈화면 이슈](https://92yeol.tistory.com/32)
 - [react-router-dom v5,v6 버전 이슈](https://92yeol.tistory.com/8?category=918540)
--[querySeletor 이슈 useRef()사용 및 트리거](https://92yeol.tistory.com/7?category=918540)
+
+- [querySeletor 이슈 useRef()사용 및 트리거](https://92yeol.tistory.com/7?category=918540)
+
 - [CRA React17,React18 렌더링 이슈](https://92yeol.tistory.com/31?category=926941)
 
 <img src="/read-img/main.jpg">
+<img src="/read-img/main2.jpg">
+<img src="/read-img/main3.jpg">
+<img src="/read-img/main4.jpg">
